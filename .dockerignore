@@ -1,0 +1,9 @@
+.docker/
+.devcontainer/
+.git/
+.history/
+.vscode/
+node_modules/
+dist/
+
+.env
